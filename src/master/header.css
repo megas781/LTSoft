@@ -20,8 +20,11 @@
 
 }
 .logo__image {
-    height: 40px;
+    height: 34px;
     display: block;
+}
+.logo__link:before {
+    display: none !important;
 }
 
 .nav {

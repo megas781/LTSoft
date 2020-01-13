@@ -2,7 +2,8 @@
     /*display: none;*/
     position: relative;
     z-index: 500;
-    background-color: var(--gray);
+    /*background-color: var(--gray);*/
+    background-color: #21767c;
     /*height: 2000px;*/
     padding: 0px;
 }
@@ -32,7 +33,9 @@
 }
 
 .intro__info {
-
+    top: 120px;
+    position: relative;
+    /*display: none;*/
 }
 
 .intro__address {

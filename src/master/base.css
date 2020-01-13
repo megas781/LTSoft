@@ -18,6 +18,7 @@ body {
     font-family: "Montserrat Light", sans-serif;
     color: white;
     background-color: var(--darkGray);
+    /*background-color: #3fedf9;*/
 }
 img {
     max-width: 100%;

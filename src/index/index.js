@@ -36,3 +36,4 @@ export let scrollController = new ScrollMagic.Controller();
 //Импорт остальных библиотек после основного, общеуниверсального кода
 require("./slider.js");
 require("./intro.js");
+require("./projects.js");
